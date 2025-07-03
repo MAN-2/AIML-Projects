@@ -1,7 +1,4 @@
-# AIML-Projects
-A repository hosting my AI/ML projects showcase
-
-# AI & ML Mini Projects – Curated by Manu Tyagi
+# AI & ML Mini Projects 
 
 This repository is a curated collection of machine learning and AI mini projects developed using Python and industry-standard libraries like scikit-learn, TensorFlow, and NLTK. The goal is to demonstrate my applied understanding of ML concepts through clean, modular, and practical code examples.
 
