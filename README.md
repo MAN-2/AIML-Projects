@@ -1,5 +1,4 @@
 # AIML-Projects
-# AI & ML Mini Projects – Showcase
 
 This repository contains a collection of mini projects developed using Python and machine learning libraries such as scikit-learn, TensorFlow, and NLTK. These projects cover a wide range of ML techniques including classification, regression, NLP, recommender systems, and computer vision.
 
