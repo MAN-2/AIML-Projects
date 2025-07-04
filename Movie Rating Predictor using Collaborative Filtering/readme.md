@@ -25,6 +25,7 @@ This beginner-friendly project predicts how a user might rate a selected movie b
 ---
  
 ## Results:
+![manu 4](https://github.com/user-attachments/assets/75187841-5f29-481b-b563-efe260be1dfd)
 
 
 
