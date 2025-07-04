@@ -16,6 +16,8 @@ Trains a Naive Bayes model with both positive and negative examples.
 Accepts new text input from the user, cleans it, extracts features, and predicts the emotion.
 
 ## Results
+![manu 5](https://github.com/user-attachments/assets/396b6112-3fea-4494-b706-db38bd4e9b1b)
+
 
 
 ## 📦 Installation
